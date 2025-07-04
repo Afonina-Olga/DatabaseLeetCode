@@ -38,6 +38,8 @@
 
 [1965. Employees With Missing Information]()
 
+[3436. Find Valid Emails]()
+
 ## Medium
 
 ## Hard
