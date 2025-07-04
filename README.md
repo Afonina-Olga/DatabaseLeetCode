@@ -20,6 +20,8 @@
 
 [1084. Sales Analysis III]()
 
+[1179. Reformat Department Table]()
+
 ## Medium
 
 ## Hard
