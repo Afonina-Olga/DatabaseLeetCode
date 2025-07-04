@@ -51,4 +51,7 @@
 [184. Department Highest Salary](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Medium/184.%20Department%20Highest%20Salary.md)
 
 [1158. Market Analysis I]()
+
+[3220. Odd and Even Transactions]()
+
 ## Hard
