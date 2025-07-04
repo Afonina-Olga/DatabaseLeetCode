@@ -48,4 +48,6 @@
 
 [178. Rank Scores]()
 
+[184. Department Highest Salary]()
+
 ## Hard
