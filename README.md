@@ -46,4 +46,6 @@
 
 ## Medium
 
+[178. Rank Scores]()
+
 ## Hard
