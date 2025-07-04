@@ -46,8 +46,8 @@
 
 ## Medium
 
-[178. Rank Scores]()
+[178. Rank Scores](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Medium/178.%20Rank%20Scores.md)
 
-[184. Department Highest Salary]()
+[184. Department Highest Salary](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Medium/184.%20Department%20Highest%20Salary.md)
 
 ## Hard
