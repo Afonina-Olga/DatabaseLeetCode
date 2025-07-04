@@ -18,6 +18,8 @@
 
 [1050. Actors and Directors Who Cooperated At Least Three Times]()
 
+[1084. Sales Analysis III]()
+
 ## Medium
 
 ## Hard
