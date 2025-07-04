@@ -8,7 +8,9 @@
 
 [586. Customer Placing the Largest Number of Orders](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.md)
 
-[182. Duplicate Emails]()
+[182. Duplicate Emails](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/182.%20Duplicate%20Emails.md)
+
+[511. Game Play Analysis I]()
 
 ## Medium
 
