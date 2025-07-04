@@ -7,6 +7,9 @@
 [183. Customers Who Never Order](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/183.%20Customers%20Who%20Never%20Order.md)
 
 [586. Customer Placing the Largest Number of Orders](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.md)
+
+[182. Duplicate Emails]()
+
 ## Medium
 
 ## Hard
