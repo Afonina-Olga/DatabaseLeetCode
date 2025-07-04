@@ -30,6 +30,10 @@
 
 [1741. Find Total Time Spent by Each Employee]()
 
+[1795. Rearrange Products Table]()
+
+
+
 ## Medium
 
 ## Hard
