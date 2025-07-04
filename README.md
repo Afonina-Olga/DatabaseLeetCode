@@ -12,7 +12,7 @@
 
 [511. Game Play Analysis I](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/511.%20Game%20Play%20Analysis%20I.md)
 
-[607. Sales Person]()
+[607. Sales Person](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/607.%20Sales%20Person.md)
 ## Medium
 
 ## Hard
