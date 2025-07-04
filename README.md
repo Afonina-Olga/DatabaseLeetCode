@@ -42,6 +42,8 @@
 
 [3465. Find Products with Valid Serial Numbers]()
 
+[3570. Find Books with No Available Copies]()
+
 ## Medium
 
 ## Hard
