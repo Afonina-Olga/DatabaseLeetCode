@@ -40,6 +40,8 @@
 
 [3436. Find Valid Emails]()
 
+[3465. Find Products with Valid Serial Numbers]()
+
 ## Medium
 
 ## Hard
