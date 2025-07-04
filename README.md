@@ -14,35 +14,35 @@
 
 [607. Sales Person](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/607.%20Sales%20Person.md)
 
-[627. Swap Salary]()
+[627. Swap Salary](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/627.%20Swap%20Salary.md)
 
-[1050. Actors and Directors Who Cooperated At Least Three Times]()
+[1050. Actors and Directors Who Cooperated At Least Three Times](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.md)
 
-[1084. Sales Analysis III]()
+[1084. Sales Analysis III](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/1084.%20Sales%20Analysis%20III.md)
 
-[1179. Reformat Department Table]()
+[1179. Reformat Department Table](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/1179.%20Reformat%20Department%20Table.md)
 
-[1407. Top Travellers]()
+[1407. Top Travellers](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/1407.%20Top%20Travellers.md)
 
-[1587. Bank Account Summary II]()
+[1587. Bank Account Summary II](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/1587.%20Bank%20Account%20Summary%20II.md)
 
-[1693. Daily Leads and Partners]()
+[1693. Daily Leads and Partners](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/1693.%20Daily%20Leads%20and%20Partners.md)
 
-[1741. Find Total Time Spent by Each Employee]()
+[1741. Find Total Time Spent by Each Employee](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.md)
 
-[1795. Rearrange Products Table]()
+[1795. Rearrange Products Table](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/1795.%20Rearrange%20Products%20Table.md)
 
-[1873. Calculate Special Bonus]()
+[1873. Calculate Special Bonus](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/1873.%20Calculate%20Special%20Bonus.md)
 
-[1890. The Latest Login in 2020]()
+[1890. The Latest Login in 2020](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/1890.%20The%20Latest%20Login%20in%202020.md)
 
-[1965. Employees With Missing Information]()
+[1965. Employees With Missing Information](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/1965.%20Employees%20With%20Missing%20Information.md)
 
-[3436. Find Valid Emails]()
+[3436. Find Valid Emails](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/3436.%20Find%20Valid%20Emails.md)
 
-[3465. Find Products with Valid Serial Numbers]()
+[3465. Find Products with Valid Serial Numbers](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/3465.%20Find%20Products%20with%20Valid%20Serial%20Numbers.md)
 
-[3570. Find Books with No Available Copies]()
+[3570. Find Books with No Available Copies](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/3570.%20Find%20Books%20with%20No%20Available%20Copies.md)
 
 ## Medium
 
