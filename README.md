@@ -32,7 +32,7 @@
 
 [1795. Rearrange Products Table]()
 
-
+[1873. Calculate Special Bonus]()
 
 ## Medium
 
