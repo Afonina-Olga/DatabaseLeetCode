@@ -10,7 +10,7 @@
 
 [182. Duplicate Emails](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/182.%20Duplicate%20Emails.md)
 
-[511. Game Play Analysis I]()
+[511. Game Play Analysis I](https://github.com/Afonina-Olga/DatabaseLeetCode/blob/main/Easy/511.%20Game%20Play%20Analysis%20I.md)
 
 ## Medium
 
