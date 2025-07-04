@@ -28,6 +28,8 @@
 
 [1693. Daily Leads and Partners]()
 
+[1741. Find Total Time Spent by Each Employee]()
+
 ## Medium
 
 ## Hard
