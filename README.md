@@ -26,6 +26,8 @@
 
 [1587. Bank Account Summary II]()
 
+[1693. Daily Leads and Partners]()
+
 ## Medium
 
 ## Hard
