@@ -22,6 +22,8 @@
 
 [1179. Reformat Department Table]()
 
+[1407. Top Travellers]()
+
 ## Medium
 
 ## Hard
